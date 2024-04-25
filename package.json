@@ -61,7 +61,7 @@
     "sequelize": "^6.17.0",
     "sequelize-typescript": "^2.0.0",
     "snyk": "^1.920.0",
-    "supertest": "4.0.2",
+    "supertest": "7.0.0",
     "swagger-ui-express": "^4.3.0",
     "tls": "0.0.1",
     "uuid4": "1.1.4",
