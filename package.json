@@ -37,7 +37,7 @@
     "@types/bluebird": "^3.5.36",
     "ansi-regex": "^6.0.1",
     "browserslist": "^4.20.3",
-    "casbin": "4.7.2",
+    "casbin": "5.6.2",
     "casbin-sequelize-adapter": "2.3.2",
     "chai": "^4.3.6",
     "complexity": "0.0.6",
