@@ -44,7 +44,7 @@
     "cors": "2.8.5",
     "crypto": "1.0.1",
     "dotenv": "8.2.0",
-    "express": "4.18.1",
+    "express": "4.21.0",
     "express-rate-limit": "5.2.6",
     "express-request-id": "1.4.1",
     "helmet": "3.23.3",
