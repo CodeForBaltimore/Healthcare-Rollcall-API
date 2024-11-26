@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "@babel/compat-data": "7.8.6",
-    "@babel/polyfill": "7.8.3",
+    "@babel/polyfill": "7.12.1",
     "@babel/preset-env": "7.17.10",
     "@babel/register": "7.17.7",
     "all-contributors-cli": "6.14.1",
